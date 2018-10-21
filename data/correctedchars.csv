@@ -1,0 +1,42 @@
+Type,Class,CBTG,Speed,Acceleration,Weight,Handling,Traction
+character,bowser,bowser,-1,0.5,-1,1,0.5
+character,bowser,morton,-1,0.5,-1,1,0.5
+character,wario,wario,-1,0.5,-0.75,0.75,0.25
+character,wario,dry bowser,-1,0.5,-0.75,0.75,0.25
+character,waluigi,waluigi,-0.75,0.25,-0.5,0.5,0.5
+character,waluigi,donky kong,-0.75,0.25,-0.5,0.5,0.5
+character,waluigi,roy,-0.75,0.25,-0.5,0.5,0.5
+character,metalmario,metal mario,-0.5,0.25,-1,0.25,0.25
+character,metalmario,pinkgoldpeach,-0.5,0.25,-1,0.25,0.25
+character,rosalina,rosalina,-0.25,0.25,-0.25,0.25,-0.25
+character,rosalina,king boo,-0.25,0.25,-0.25,0.25,-0.25
+character,rosalina,link,-0.25,0.25,-0.25,0.25,-0.25
+character,luigi,luigi,0,0,0,-0.25,0.25
+character,luigi,iggy,0,0,0,-0.25,0.25
+character,mario,mario,0,0,0,0,0
+character,mario,ludwig,0,0,0,0,0
+character,peach,peach,0.25,-0.25,0.5,-0.25,-0.25
+character,peach,daisy,0.25,-0.25,0.5,-0.25,-0.25
+character,peach,yoshi,0.25,-0.25,0.5,-0.25,-0.25
+character,toonooki,toonooki mar,0.25,-0.25,0.25,-0.25,0.25
+character,toonooki,inklingboy,0.25,-0.25,0.25,-0.25,0.25
+character,toonooki,villagerm,0.25,-0.25,0.25,-0.25,0.25
+character,cat,cat peach,0.5,-0.5,0.75,-0.5,-0.25
+character,cat,inklinggirl,0.5,-0.5,0.75,-0.5,-0.25
+character,cat,villagerf,0.5,-0.5,0.75,-0.5,-0.25
+character,toad,toad,0.75,-0.5,0.75,-0.75,-0.5
+character,toad,shyguy,0.75,-0.5,0.75,-0.75,-0.5
+character,toad,larry,0.75,-0.5,0.75,-0.75,-0.5
+character,koopa,koopa troopa,1,-0.5,1,-1,-0.75
+character,koopa,lakitu,1,-0.5,1,-1,-0.75
+character,koopa,bowserr jr,1,-0.5,1,-1,-0.75
+character,toadette,toadette,1,-0.75,1,-0.75,0
+character,toadette,wendy,1,-0.75,1,-0.75,0
+character,toadette,isabella,1,-0.75,1,-0.75,0
+character,babymario,baby mario,1.25,-0.75,1.25,-1,-0.5
+character,babymario,baby luigi,1.25,-0.75,1.25,-1,-0.5
+character,babymario,dry bones,1.25,-0.75,1.25,-1,-0.5
+character,babypeach,baby peach,1.5,-0.5,1.5,-1.5,-0.75
+character,babypeach,baby daisy,1.5,-0.5,1.5,-1.5,-0.75
+character,babyrosalina,baby rosalina,1.5,-0.5,1.5,-1.5,-0.75
+character,lemmy,lemmy,1.5,-0.75,1.5,-1.25,-0.25

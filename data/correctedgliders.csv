@@ -1,0 +1,13 @@
+,Type,Class,CBTG,Speed,Acceleration,Weight,Handling,Traction
+,glider,Super,Super Glider*,0,0,0,0,0
+,glider,Super,Waddle,0,0,0,0,0
+,glider,Super,Hylian Kite,0,0,0,0,0
+,glider,Wario,Wario*,0,0,-0.25,0,0.25
+,glider,Wario,Plane Glider,0,0,-0.25,0,0.25
+,glider,Clouds,Clouds*,0.25,-0.25,0.25,0,0
+,glider,Clouds,Parachute,0.25,-0.25,0.25,0,0
+,glider,Clouds,Flower,0.25,-0.25,0.25,0,0
+,glider,Clouds,Paper glider,0.25,-0.25,0.25,0,0
+,glider,Parasol,Peach Parasol*,0.25,-0.25,0,0,0.25
+,glider,Parasol,Parafoil,0.25,-0.25,0,0,0.25
+,glider,Parasol,MKTV Parafoil,0.25,-0.25,0,0,0.25

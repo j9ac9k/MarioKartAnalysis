@@ -1,0 +1,19 @@
+,Type,Class,CBTG,Speed,Acceleration,Weight,Handling,Traction
+,tire,metal,Metal,-0.5,1,-0.5,0.25,0.75
+,tire,slick,Slick,-0.5,0.75,-0.25,0.25,1.25
+,tire,slick,cyber slick,-0.5,0.75,-0.25,0.25,1.25
+,tire,off road,off road,-0.25,0.25,-0.25,0.5,-0.25
+,tire,off road,retro off road,-0.25,0.25,-0.25,0.5,-0.25
+,tire,off road,triforce,-0.25,0.25,-0.25,0.5,-0.25
+,tire,slim,slim,-0.25,0.5,0,-0.25,1
+,tire,slim,wood,-0.25,0.5,0,-0.25,1
+,tire,slim class,crimson slim,-0.25,0.5,0,-0.25,1
+,tire,monster,monster,0,0.5,-0.5,0.75,-0.5
+,tire,monster,hot monster,0,0.5,-0.5,0.75,-0.5
+,tire,standard,standard,0,0,0,0,0
+,tire,standard,GLA,0,0,0,0,0
+,tire,button,button,0.25,-0.25,0.5,0,0.5
+,tire,button,leaf,0.25,-0.25,0.5,0,0.5
+,tire,sponge,sponge,0.25,0,0.25,0.25,-0.25
+,tire,sponge,cushion,0.25,0,0.25,0.25,-0.25
+,tire,roller,roller,0.5,-0.5,0.5,-0.25,0.25

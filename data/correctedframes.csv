@@ -1,0 +1,34 @@
+Type,Class,CBTG,Speed,Acceleration,Weight,Handling,Traction
+frame,biddybuggy,biddybuggy,0.75,-0.75,0.5,-0.5,-0.25
+frame,biddybuggy,mr. scooty,0.75,-0.75,0.5,-0.5,-0.25
+frame,circuit,circuit soecial,-0.5,0.75,-0.25,0.5,0.5
+frame,circuit,b dasher,-0.5,0.75,-0.25,0.5,0.5
+frame,comet,comet,0.25,-0.25,0,-0.25,0
+frame,comet,yoshi,0.25,-0.25,0,-0.25,0
+frame,comet,teddy buggy,0.25,-0.25,0,-0.25,0
+frame,koopaclown,koopa clown,0.25,0.5,-0.25,-0.25,-1
+frame,landship,landship,0.5,-0.5,0.5,-0.25,-0.75
+frame,landship,streetle,0.5,-0.5,0.5,-0.25,-0.75
+frame,mach8,mach8,0,0.25,-0.25,0.25,-0.25
+frame,mach8,sportscoupe,0,0.25,-0.25,0.25,-0.25
+frame,pipe,pipe frame,0.5,-0.5,0.25,-0.5,-0.25
+frame,pipe,varmint,0.5,-0.5,0.25,-0.5,-0.25
+frame,pipe,city tripper,0.5,-0.5,0.25,-0.5,-0.25
+frame,prancer,sport bike,-0.25,0.5,0.25,0,0.25
+frame,silverarrow,W25 silver arrow,0.25,-0.25,0.25,-0.25,-0.5
+frame,sneeker,sneeker,-0.25,0.5,0,0,0.75
+frame,sneeker,master cycle,-0.25,0.5,0,0,0.75
+frame,splatbuggy,splat buggy,-0.25,0.25,0.5,0.25,0
+frame,sportBIke,prancer,-0.25,0.5,0.25,0,0.25
+frame,sportBIke,jet bike ,-0.25,0.5,0.25,0,0.25
+frame,standardATV,GLA,-0.5,1,-0.5,0.75,-0.5
+frame,standardATV,standard atv,-0.5,1,-0.5,0.75,-0.5
+frame,standardBike,standard bike,0.25,-0.25,0.25,-0.25,-0.5
+frame,standardBike,flame rider,0.25,-0.25,0.25,-0.25,-0.5
+frame,standardBike,wild wiggler,0.25,-0.25,0.25,-0.25,-0.5
+frame,standardKart,300sl roadster,0,0,0,0,0
+frame,standardKart,duke,0,0,0,0,0
+frame,steal,steal driver,-0.25,0.75,-0.5,0.5,0
+frame,steal,tri speeder,-0.25,0.75,-0.5,0.5,0
+frame,steal,bone ratttler,-0.25,0.75,-0.5,0.5,0
+frame,mach8,inkstriker,0,0.25,-0.25,0.25,-0.25
